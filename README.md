@@ -17,3 +17,5 @@
 **4. If you would like to support me, please donate:**
 
 * bitcoincash:qzdjkeate68u7ru2rvtnqtp0hp60akq4j550uyn7aw
+
+Special thanks to Electrum and Electron Cash project, without which, the GUI would have been very difficult for me to build.
