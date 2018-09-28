@@ -15,4 +15,4 @@
 * Run ```BCH_text_txn.py```
 
 **4. What does the GUI look like?**
-* ![GUI interface](./demo-pictures/Capture.PNG)
+* ![GUI interface](./demo_pics/Capture.JPG)
