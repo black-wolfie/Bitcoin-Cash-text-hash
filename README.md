@@ -1,0 +1,1 @@
+# Bitcoin-Cash-text-hash
