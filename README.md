@@ -16,3 +16,6 @@
 
 **4. What does the GUI look like?**
 * ![GUI interface](./demo_pics/Capture.JPG)
+
+**donation address**
+bitcoincash:qzdjkeate68u7ru2rvtnqtp0hp60akq4j550uyn7aw
