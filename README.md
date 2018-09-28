@@ -18,4 +18,5 @@
 * ![GUI interface](./demo_pics/Capture2.JPG)
 
 **5. If you would like to support me, please donate:**
-bitcoincash:qzdjkeate68u7ru2rvtnqtp0hp60akq4j550uyn7aw
+
+* bitcoincash:qzdjkeate68u7ru2rvtnqtp0hp60akq4j550uyn7aw
