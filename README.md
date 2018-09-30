@@ -9,6 +9,7 @@
 * Python 3.x (tested on 3.7)
 * ```ecdsa``` package
 * ```tkinter``` package
+* ```requests``` package
 
 **3. How do I use the GUI?**
 * Download ```BCH_cash_addr_tools.py```, ```BCH_text_txn.py```, ```b58.py```
