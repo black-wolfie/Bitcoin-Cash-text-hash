@@ -21,4 +21,4 @@
 
 Special thanks to Electrum and Electron Cash project, without which, the GUI would have been very difficult for me to build.
 
-Telegram supporthttps://t.me/joinchat/AAAAAEfsGKGIF315FcIGcQ
+Telegram suppot ```https://t.me/joinchat/AAAAAEfsGKGIF315FcIGcQ```
