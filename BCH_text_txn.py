@@ -9,6 +9,7 @@ import ecdsa
 from binascii  import hexlify, unhexlify
 from BCH_cash_addr_tools import _cash_string, convertbits, calculate_cksum, b32encode
 from b58 import b58encode, b58decode
+from tkinter import Tk, Label, Button, Entry, IntVar, END, W, E, scrolledtext, INSERT
 
 bfh = bytes.fromhex
 hfu = hexlify
@@ -454,7 +455,6 @@ def txn(utxo_list, UTXO_address_1, b58_pri_key, text):
     return signed_txn
 
 #%%
-from tkinter import Tk, Label, Button, Entry, IntVar, END, W, E, scrolledtext, INSERT
 
 class BCH_write_onchain_GUI:
 
